@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="648px" height="315px" viewBox="0 0 648 315" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21,65.2132034 L-1.11910481e-13,44.2132034 L21,23.2132034 L21,10 C21,4.4771525 25.4771525,1.01453063e-15 31,0 L626,-1.77635684e-15 C631.522847,-2.79088747e-15 636,4.4771525 636,10 L636,293 C636,298.522847 631.522847,303 626,303 L31,303 C25.4771525,303 21,298.522847 21,293 L21,65.2132034 Z" id="path-1"></path>
+        <filter x="-1.7%" y="-2.5%" width="103.3%" height="106.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.148862092 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IT-club" transform="translate(-905.000000, -1738.000000)" fill-rule="nonzero">
+            <g id="Group-13" transform="translate(911.000000, 1741.000000)">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="81px" viewBox="0 0 47 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="5.38541667" y="24.7365269" width="35.25" height="33.4670659"></rect>
+        <filter x="-19.9%" y="-14.9%" width="139.7%" height="141.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0915987319 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IT-club" transform="translate(-1087.000000, -1029.000000)" fill-rule="nonzero">
+            <g id="Group-7" transform="translate(1087.000000, 1029.000000)">
+                <g id="Group-2">
+                    <g id="014-touch-screen">
+                        <g id="Group" fill="#40596B">
+                            <path d="M46.9825161,7.25240549 L46.9825161,10.394632 L24.9438019,13.9509761 L0.00164594198,10.394632 L0.00164594198,7.25240549 C0.00164594198,3.24607059 3.09048052,0 6.90248215,0 L40.0816799,0 C43.8917363,0 46.9825161,3.24607059 46.9825161,7.25240549 Z" id="Shape"></path>
+                            <path d="M46.9825161,69.730178 L46.9825161,73.3054027 C46.9825161,77.3115803 43.8917363,80.5578082 40.0816799,80.5578082 L38.1613145,80.5578082 L6.90248215,80.5578082 C3.09048052,80.5578082 0.00164594198,77.3117376 0.00164594198,73.3054027 L0.00164594198,69.730178 L23.492081,66.319373 L46.9825161,69.730178 Z" id="Shape"></path>
+                        </g>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" points="0 10.540274 46.9841621 10.540274 46.9841621 70.0175342 0 70.0175342"></polygon>
+                        <polygon id="Shape" fill="#F3F1F1" points="46.9841621 70.0175342 7.25771609 70.0175342 41.1741285 10.8050779 41.1741285 10.540274 46.9841621 10.540274"></polygon>
+                        <ellipse id="Oval" fill="#E6E9EE" cx="23.8740661" cy="75.0994521" rx="3.24687299" ry="3.19972603"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-5" transform="translate(5.385417, 14.550898)" fill="#25D9F8">
+                    <rect id="Rectangle-9" x="0" y="0" width="8.32291667" height="1.12438759" rx="0.562193794"></rect>
+                    <path d="M0.562193794,2.06137725 L7.76072287,2.06137725 C8.07121393,2.06137725 8.32291667,2.31307998 8.32291667,2.62357104 L8.32291667,2.62357104 C8.32291667,2.9340621 8.07121393,3.18576483 7.76072287,3.18576483 L0.562193794,3.18576483 C0.251702735,3.18576483 3.80241882e-17,2.9340621 0,2.62357104 L0,2.62357104 C-3.80241882e-17,2.31307998 0.251702735,2.06137725 0.562193794,2.06137725 Z" id="Rectangle-9"></path>
+                    <rect id="Rectangle-9" x="0" y="4.12275449" width="8.32291667" height="1.12438759" rx="0.562193794"></rect>
+                </g>
+                <rect id="Rectangle-10" fill="#FA7904" x="0" y="63.0538922" width="47" height="7.2754491"></rect>
+                <ellipse id="Oval-2" fill="#FA7904" cx="8.32291667" cy="64.994012" rx="4.40625" ry="4.36526946"></ellipse>
+                <g id="Rectangle-11">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-11" fill="#00C0F1" x="5.38541667" y="24.251497" width="35.25" height="16.9760479"></rect>
+                <path d="M10.7617265,46.0778443 L28.8945235,46.0778443 C29.4302727,46.0778443 29.8645833,46.5121549 29.8645833,47.0479042 L29.8645833,47.0479042 C29.8645833,47.5836535 29.4302727,48.0179641 28.8945235,48.0179641 L10.7617265,48.0179641 C10.2259773,48.0179641 9.79166667,47.5836535 9.79166667,47.0479042 L9.79166667,47.0479042 C9.79166667,46.5121549 10.2259773,46.0778443 10.7617265,46.0778443 Z" id="Rectangle-12" fill="#D8D8D8"></path>
+                <path d="M10.7617265,49.9580838 L23.5091068,49.9580838 C24.0448561,49.9580838 24.4791667,50.3923944 24.4791667,50.9281437 L24.4791667,50.9281437 C24.4791667,51.463893 24.0448561,51.8982036 23.5091068,51.8982036 L10.7617265,51.8982036 C10.2259773,51.8982036 9.79166667,51.463893 9.79166667,50.9281437 L9.79166667,50.9281437 C9.79166667,50.3923944 10.2259773,49.9580838 10.7617265,49.9580838 Z" id="Rectangle-12" fill="#D8D8D8"></path>
+            </g>
+        </g>
+    </g>
+</svg>

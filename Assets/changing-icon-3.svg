@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 31</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="25" cy="25" r="25"></circle>
+        <filter x="-21.0%" y="-15.0%" width="142.0%" height="142.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.148862092 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IT-club" transform="translate(-778.000000, -1921.000000)" fill-rule="nonzero">
+            <g id="Group-31" transform="translate(784.000000, 1924.000000)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+                <g id="007-check-mark-button" transform="translate(14.000000, 14.000000)" fill="#909090">
+                    <path d="M10.9414643,0 C4.90835714,0 0,4.90835714 0,10.9414643 C0,16.9745714 4.90835714,21.8829286 10.9414643,21.8829286 C16.9745714,21.8829286 21.8829286,16.9745714 21.8829286,10.9414643 C21.8825357,4.90835714 16.9745714,0 10.9414643,0 Z M10.9414643,20.1193929 C5.88067857,20.1193929 1.76353571,16.00225 1.76353571,10.9410714 C1.76353571,5.88028571 5.88067857,1.76314286 10.9414643,1.76314286 C16.00225,1.76314286 20.1193929,5.88067857 20.1193929,10.9414643 C20.1193929,16.00225 16.00225,20.1193929 10.9414643,20.1193929 Z" id="Shape"></path>
+                    <path d="M14.42925,7.4525 L9.32210714,12.5600357 L7.45328571,10.6912143 C7.10914286,10.3466786 6.55089286,10.3466786 6.20675,10.6912143 C5.86221429,11.0353571 5.86221429,11.5936071 6.20675,11.93775 L8.69903571,14.4300357 C8.87110714,14.6021071 9.097,14.6885357 9.3225,14.6885357 C9.548,14.6885357 9.7735,14.6025 9.94557143,14.4300357 L15.6761786,8.69942857 C16.0203214,8.35489286 16.0203214,7.79703571 15.6761786,7.4525 C15.3316429,7.10835714 14.7737857,7.10835714 14.42925,7.4525 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 30</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="25" cy="25" r="25"></circle>
+        <filter x="-21.0%" y="-15.0%" width="142.0%" height="142.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.148862092 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IT-club" transform="translate(-778.000000, -1839.000000)" fill-rule="nonzero">
+            <g id="Group-30" transform="translate(784.000000, 1842.000000)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+                <g id="002-prototype-1" transform="translate(15.000000, 15.000000)" fill="#909090">
+                    <path d="M2.8069362,13.4166357 C2.70887424,13.5140023 2.63561757,13.6329284 2.59226635,13.7643732 L1.39999074,17.3411999 L0.289549318,18.4516413 C-0.0581880712,18.7993787 -0.0581880712,19.3629451 0.289549318,19.7104507 C0.637054896,20.0581881 1.20062131,20.0581881 1.54835869,19.7104507 L2.65880006,18.6000093 L6.23562682,17.4077336 C6.36707157,17.3643824 6.48599774,17.2911258 6.58336427,17.1930638 L7.64512237,16.1315374 L3.86846255,12.3551094 L2.8069362,13.4166357 Z" id="Shape"></path>
+                    <path d="M19.1978858,4.57993323 C20.2376205,3.53834386 20.2376205,1.84393543 19.1969585,0.801650564 C18.1556009,-0.238779703 16.4611925,-0.236229614 15.4196031,0.802577923 L14.7899666,1.43244623 L18.5675538,5.21026522 L19.1978858,4.57993323 Z" id="Shape"></path>
+                    <polygon id="Shape" points="17.3087445 6.46884273 13.5311573 2.69125555 5.12727187 11.0963001 8.90369994 14.8727281"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
